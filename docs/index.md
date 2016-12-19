@@ -6,6 +6,14 @@ In the past decade, data-driven analysis has emerged as a growing methodology, i
 
 This project brings together researchers from computer science and literary studies to develop and evaluate novel distant reading approaches.
 
-# [](#header-1)Project outcome I: Creating Transcendental Information Cascades from English Literature
+# [](#header-1-1)Project outcome I: Creating Transcendental Information Cascades from English Literature
 
-# [](#header-1)Team
+# [](#header-1-2)Team
+
+## [](#header-2-1)Markus Luczak-Roesch
+
+## [](#header-2-2)Adam Grener
+
+## [](#header-2-3)Emma Fenton
+
+## [](#header-2-4)Tom Goldfinch
