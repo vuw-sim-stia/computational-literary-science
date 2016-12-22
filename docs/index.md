@@ -10,6 +10,8 @@ This project brings together researchers from computer science and literary stud
 
 ## [](#header-2-2)Team
 
+Led by Markus Luczak-Roesch and Adam Grener this interdisciplinary research project was supported under the spearheading digital futures theme, which is part of the areas of strategic distictiveness of Vicotria University of Wellington (http://www.victoria.ac.nz/about/strengths/digital-futures). 
+
 ### [](#header-3-1)Markus Luczak-Roesch
 
 Markus Luczak-Roesch is a Senior Lecturer in Information Systems at the School for Information Management, Victoria Business School, Victoria University of Wellington. Before joining Victoria Markus worked as a Senior Research Fellow on the prestigious EPSRC programme grant SOCIAM - The Theory and Practice of Social Machines (http://sociam.org) at the University of Southampton, Electronics and Computer Science (UK, 2013-2016). A computer scientist by education, Markus investigates the formal properties of information in socio-technical systems and human factors of information and computing systems. More information: http://markus-luczak.de
