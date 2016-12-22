@@ -10,15 +10,15 @@ This project brings together researchers from computer science and literary stud
 
 ## [](#header-2-2)Team
 
-Led by Markus Luczak-Roesch and Adam Grener this interdisciplinary research project was supported under the spearheading digital futures theme, which is part of the areas of strategic distictiveness of Vicotria University of Wellington (http://www.victoria.ac.nz/about/strengths/digital-futures). 
+Led by Markus Luczak-Roesch and Adam Grener this interdisciplinary research project was supported under the [spearheading digital futures theme](http://www.victoria.ac.nz/about/strengths/digital-futures), which is part of the areas of strategic distictiveness of Vicotria University of Wellington. 
 
 ### [](#header-3-1)Markus Luczak-Roesch
 
-Markus Luczak-Roesch is a Senior Lecturer in Information Systems at the School for Information Management, Victoria Business School, Victoria University of Wellington. Before joining Victoria Markus worked as a Senior Research Fellow on the prestigious EPSRC programme grant SOCIAM - The Theory and Practice of Social Machines (http://sociam.org) at the University of Southampton, Electronics and Computer Science (UK, 2013-2016). A computer scientist by education, Markus investigates the formal properties of information in socio-technical systems and human factors of information and computing systems. More information: http://markus-luczak.de
+Markus Luczak-Roesch is a Senior Lecturer in Information Systems at the School for Information Management, Victoria Business School, Victoria University of Wellington. Before joining Victoria Markus worked as a Senior Research Fellow on the prestigious EPSRC programme grant [SOCIAM - The Theory and Practice of Social Machines](http://sociam.org) at the University of Southampton, Electronics and Computer Science (UK, 2013-2016). A computer scientist by education, Markus investigates the formal properties of information in socio-technical systems and human factors of information and computing systems. More information: [http://markus-luczak.de](http://markus-luczak.de)
 
 ### [](#header-3-2)Adam Grener
 
-Adam Grener is Lecturer in the English Programme at Victoria University of Wellington. His main area of research is the nineteenth-century British novel, though he also has interest in the history of the novel, narrative theory, and computational approaches to literature. His work has appeared in the journals Genre, Narrative, and Modern Philology, and he is the co-editor of a special issue of Genre, "Narrative Against Data in the Victorian Novel," set to appear in March 2017. He is completing a book on realist aesthetics and the history of probabilistic thought. More information: http://www.victoria.ac.nz/seftms/about/staff/adam-grener
+Adam Grener is Lecturer in the English Programme at Victoria University of Wellington. His main area of research is the nineteenth-century British novel, though he also has interest in the history of the novel, narrative theory, and computational approaches to literature. His work has appeared in the journals Genre, Narrative, and Modern Philology, and he is the co-editor of a special issue of Genre, "Narrative Against Data in the Victorian Novel," set to appear in March 2017. He is completing a book on realist aesthetics and the history of probabilistic thought. More information: [http://www.victoria.ac.nz/seftms/about/staff/adam-grener](http://www.victoria.ac.nz/seftms/about/staff/adam-grener)
 
 ### [](#header-3-3)Research assistants
  * Emma Fenton
