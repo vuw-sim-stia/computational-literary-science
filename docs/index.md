@@ -20,4 +20,4 @@ Adam Grener is Lecturer in the English Programme at Victoria University of Welli
 
 ### [](#header-3-3)Research assistants
  * Emma Fenton
- * Tom Golfinch
+ * Tom Goldfinch
