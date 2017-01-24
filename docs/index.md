@@ -75,18 +75,31 @@ Tools have also been developed to conduct user studies and analyse how individua
 
 ### [](#header-2-1-7)References
 Bamman, et al. 2014. “A Bayesian Mixed Effects Model of Literary Character.” ACL 2014.
+
 Dickens, Charles. 1844. Martin Chuzzlewit. Penguin Books, 1999.
+
 Gibson, Anna. 2015. “Our Mutual Friend and Network Form,” NOVEL 48.1. 
+
 Grossman, Jonathan. 2012. Charles Dickens’s Networks: Public Transport and the Novel. Oxford University Press.
+
 ———. 2015. “Living the Global Transport Network in Great Expectations,” Victorian Studies 57.2.
+
 Hawes, Donald. 1998. Who’s Who in Dickens. Routledge, 2002.
+
 Elson, David, et al. 2010. “Extracting Social Networks from Literary Fiction.” ACL 2010.
+
 Levine, Caroline. 2015. Forms: Whole, Rhythm, Hierarchy, Network. Princeton University Press. 
+
 Luczak-Roesch, Markus et al., 2015, August. From coincidence to purposeful flow? properties of transcendental information cascades. In Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2015 (pp. 633-638). ACM.
+
 Moretti, Franco. 2011. “Network Theory, Plot Analysis,” New Left Review 68. 
+
 Pierce, Gilbert. 1878. The Dickens Dictionary. Chapman and Hall. 
+
 Piper, Andrew. 2015a. “Development of a (Semi-) Automatic Character Network Tool” [https://txtlab.org/?p=528]
+
 ———. 2015b. “Detecting Literary Characters.” [https://txtlab.org/?p=559]
+
 ———. 2016. “The Constraints of Character. Introducing a Character Feature-Space Tool.” [https://txtlab.org/?p=611]
 
 ### [](#header-2-1-0)Tool prototype demonstration
