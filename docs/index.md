@@ -8,7 +8,7 @@ This project brings together researchers from computer science and literary stud
 
 ## [](#header-2-1)Project outcome I: Creating Transcendental Information Cascades from English Literature
 
-[![Alt Screencast demonstration of the distant reading tool for English literature](http://img.youtube.com/vi/QnXvtYlL9VA/0.jpg)](http://www.youtube.com/watch?v=QnXvtYlL9VA)
+[![Alt Screencast demonstration of the distant reading tool for English literature](https://github.com/vuw-sim-stia/computational-literary-science/raw/master/docs/vid1.png)](http://www.youtube.com/watch?v=QnXvtYlL9VA)
 
 Our method applies the Transcendental Information Cascades (TIC) approach to understand how emergent structures of information are generated during the unfolding of a text. It treats the text as a diachronically evolving information system and uses TIC to isolate the structural properties of that system. Theoretically, one could create an infinite number of models of any given system, depending on the dictionary one chose as the structuring element of the system (e.g., bigrams or trigrams, place names, articles or prepositions, affect words, etc.). We use character names as the structuring element. The network thus provides a visualization of the occurrence of characters and models the information structures they generate.
 
