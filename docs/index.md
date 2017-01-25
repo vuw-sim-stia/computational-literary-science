@@ -4,6 +4,10 @@ layout: default
 
 ## [](#header-2-1)Project outcome I: A Computational Approach to Dickens’ Dynamic Character Networks
 
+Adam Grener, Markus Luczak-Roesch, Emma Fenton, Tom Goldfinch
+
+*Citation: Adam Grener, Markus Luczak-Roesch, Emma Fenton, & Tom Goldfinch. (2017). Towards a Computational Literary Science: A Computational Approach to Dickens' Dynamic Character Networks. Zenodo, https://doi.org/10.5281/zenodo.259499.*
+
 ### [](#header-2-1-1)Background
 Character networks have emerged as a central object of inquiry and analysis in computational approaches to literature and the novel. Moretti (2011) proposed that character networks provide visual models of literary texts and offer new perspectives on how they function, offering a static picture of their structure and systems. In addition to providing a tool for the analysis of plot, character networks offer a foundation for social network analysis—for understanding how novels construct relationships between characters and thus the social worlds they represent.  As both Moretti and Piper (2015a) admit, the construction of character maps can be extremely time consuming and challenging, especially when working with novels containing a vast cast of characters. Piper (2015a) and Elson, et al. (2010) have developed programs for extracting social networks from texts by identifying character co-occurrence within paragraphs or by using dialogue interaction to establish relation. While this work reveals the inherent difficulties in reliably generating social networks with speed and ease, it has also shown the possibilities for using character networks to understand genre (Piper 2015b), character typology (Bamman, et al., 2014), and character-space (Piper 2016).
 
